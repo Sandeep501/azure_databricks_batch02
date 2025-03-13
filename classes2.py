@@ -18,8 +18,6 @@ class employee:
     
     def get_sal_details(self):
         return self.__get_sal_with_bonus()
-        
-
 
 
 my_cls_ins = employee("Karthik", 20000)
