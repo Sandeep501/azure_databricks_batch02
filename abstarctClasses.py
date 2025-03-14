@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod, ab
+from abc import ABC, abstractmethod, abstractclassmethod
 
 class Vehicle(ABC):
     
